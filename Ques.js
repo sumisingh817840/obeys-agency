@@ -69,7 +69,6 @@ tl.from("#hero h1,h2",{
 
  
  
-
 tl.from("#nav",{
     opacity:0
 })
